@@ -1,5 +1,3 @@
-# Anamika-B
-
 # 👋 Hi, I'm Anamika B
 
 🎓 Student | 💻 Python Learner | 🚀 Future Developer  
